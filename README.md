@@ -27,7 +27,7 @@ https://imgur.com/PXWb0jn
 Step 2. Create Virtual Machines (VMs):
 https://imgur.com/j8Q1laF
 
-https://imgur.com/undefined
+https://imgur.com/aOSLoIE)
 
 Step 3. Set Up Networking & NAT Network:
 https://imgur.com/MLFbWsm
@@ -48,21 +48,41 @@ https://imgur.com/rybYm8C
 
 Kali Linux VM:
 - Update the system:
-  https://imgur.com/undefined
-
-  https://imgur.com/undefined
+  https://imgur.com/vUz1Q8Y
+  https://imgur.com/PH0PfSd
   
 - Install additional tools:
-https://imgur.com/undefined
+[](https://imgur.com/T28ZMw0)
 
-https://imgur.com/undefined
+https://imgur.com/mlan8pa
 
 Step 5: Stimulate Network Attacks and Defenses:
 - Using Kali Linux, run a simple nmap scan against the Ubuntu VM:
-  https://imgur.com/undefined
+](https://imgur.com/C5dU7HO)
 
+https://imgur.com/OyCSXsv
 Defend Against Attacks:
 - On the Ubuntu VM, install acn configure UFW (Uncomplicated Firewall)
+
+https://imgur.com/6VrMcmF
+
+https://imgur.com/Zo3Ympt
+
+Analyze Network Traffic:
+On the Ubuntu VM, install Wireshark and capture traffic:
+(https://imgur.com/a/frhuflw)
+
+https://imgur.com/a/p0rGZHQ
+
+https://imgur.com/a/kX0iS3N
+
+https://imgur.com/a/U0tqiPq
+
+https://imgur.com/a/GwqSgk1
+
+Network Diagram
+https://imgur.com/a/LyM9MnW
+
   
 
   
