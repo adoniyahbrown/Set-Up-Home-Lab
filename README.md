@@ -49,6 +49,7 @@ https://imgur.com/rybYm8C
 Kali Linux VM:
 - Update the system:
   https://imgur.com/vUz1Q8Y
+  
   https://imgur.com/PH0PfSd
   
 - Install additional tools:
@@ -58,9 +59,11 @@ https://imgur.com/mlan8pa
 
 Step 5: Stimulate Network Attacks and Defenses:
 - Using Kali Linux, run a simple nmap scan against the Ubuntu VM:
-](https://imgur.com/C5dU7HO)
+(https://imgur.com/C5dU7HO)
 
 https://imgur.com/OyCSXsv
+
+
 Defend Against Attacks:
 - On the Ubuntu VM, install acn configure UFW (Uncomplicated Firewall)
 
