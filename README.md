@@ -1,24 +1,39 @@
-# Set Up A Home Lab
+# Home Lab Setup for Cybersecurity Testing
 
-## Objective
+Objective:
 
-Setting up a home lab is a fundamental step for anyone interested in practicing and improving their cybersecurity skills. This detailed guide will help you create a virtual network with multiple machines, allowing you to stimulate attacks and defenses in a controlled environment.
 
-### Skills Learned
-- Advanced understanding of SIEM concepts and practical application.
-- Proficiency in analyzing and interpreting network logs.
-- Ability to generate and recognize attack signatures and patterns.
-- Enhanced knowledge of network protocols and security vulnerabilities.
-- Development of critical thinking and problem-solving skills in cybersecurity.
-  
-### Tools Used
+The goal of this project was to create a secure virtual lab environment to practice and test various
+cybersecurity tools and techniques. The lab simulates real-world network conditions to allow for hands-on
+experience in ethical hacking, network monitoring, and incident response.
 
-- Wireshark: Network protocol analyzer for capturing and analyzing network traffic.
-- Nmap: Network scanning tool for discovering hosts and services on a network.
-- Metasploit: Exploitation framework for penetration testing.
-- Netcat: Utility for reading from and writing to network connections.
-- Burp Suite: Web vulnerability scanner and penetration testing toolkit.
 
+Tools Used:
+
+● VirtualBox
+
+● Kali Linux
+
+● Metasploitable 2
+
+● Windows Server 2016
+
+Methodology:
+1. Configured VirtualBox to host multiple virtual machines in a segmented network environment.
+2. Installed and configured Kali Linux as the primary offensive security testing machine.
+3. Set up Metasploitable 2 as a vulnerable target machine to practice exploitation.
+4. Created an isolated network to ensure secure testing without impacting external systems.
+
+
+Challenges Faced & Solutions:
+● Challenge: Network performance issues due to resource limitations.
+
+● Solution: Optimized VM resource allocation and adjusted VirtualBox settings to improve
+efficiency.
+
+Outcome:
+Successfully established a secure and functional lab environment. This setup allowed for the safe practice of
+cybersecurity techniques and improved my understanding of network architecture and isolation principles.
 
 ## Steps
 Step 1. Download Virtual Box:
